@@ -1,6 +1,6 @@
 {
     "name":"David脚本备份",
-    "description":"转载原作者David，仅懒人自用，",
+    "description":"转载原作者David，仅懒人自用",
     "task":[
         "15 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/fqctapp.js, tag=番茄畅听, img-url=https://github.com/bluesmallpig/scripts/blob/main/img/fqct.png, enabled=true",
         "15 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/fqxs.js, tag=番茄小说, img-url=https://github.com/bluesmallpig/scripts/blob/main/img/fqxs.png, enabled=true",       
@@ -12,6 +12,5 @@
         "*/6 7-17 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/everyday.js, tag=书旗小说时长, img-url=https://github.com/bluesmallpig/scripts/blob/main/img/shuqi.png, enabled=true",
         "5 6,19 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/gylm.js, tag=高佣联盟, img-url=https://github.com/bluesmallpig/scripts/blob/main/img/gylm.png, enabled=true",
         "*/6 * * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/hlhb.js, tag=欢乐红包, img-url=https://github.com/bluesmallpig/scripts/blob/main/img/hlhb.png, enabled=true"
- 
     ]
 }
