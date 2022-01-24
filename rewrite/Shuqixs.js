@@ -1,5 +1,5 @@
 # 书旗小说日常任务
-hostname = render.shuqireader.com,ocean.shuqireader.com,api-access.pangolin-sdk-toutiao.com,*.snssdk.com,*.fqnovel.com,*.reader.qq.com,*.fengduxiaoshuo.com,*.palmestore.com,*.bdcloudapi.com,api-access.pangolin-sdk-toutiao.com,*.gylm315.cn
+hostname = render.shuqireader.com,ocean.shuqireader.com
 
 https://ocean.shuqireader.com/api/activity/xapi/signin/v5/signInAction url script-request-body https://raw.githubusercontent.com/bluesmallpig/scripts/main/sqxs.js
 https://ocean.shuqireader.com/api/activity/v1/task/reward url script-request-body https://raw.githubusercontent.com/bluesmallpig/scripts/main/sqxs.js
