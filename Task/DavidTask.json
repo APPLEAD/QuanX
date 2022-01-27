@@ -12,5 +12,7 @@
         "*/6 7-17 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/everyday.js, tag=书旗小说时长, img-url=https://github.com/bluesmallpig/scripts/blob/main/img/shuqi-mini.png, enabled=true",
         "5 6,19 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/gylm.js, tag=高佣联盟, img-url=https://github.com/bluesmallpig/scripts/blob/main/img/gylm-mini.png, enabled=true",
         "*/6 * * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/hlhb.js, tag=欢乐红包, img-url=https://github.com/bluesmallpig/scripts/blob/main/img/hlhb-mini.png, enabled=true"
+        "*/6 * * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/sjb.js, tag=睡觉宝, img-url=https://github.com/bluesmallpig/scripts/blob/main/img/sjb-mini.png, enabled=true"
+       
     ]
 }
