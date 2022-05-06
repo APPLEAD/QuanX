@@ -2,20 +2,20 @@
     "name":"David脚本备份",
     "description":"转载原作者David，仅懒人自用",
     "task":[
-        "15 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/fqctapp.js, tag=番茄畅听, img-url=https://raw.githubusercontent.com/bluesmallpig/scripts/main/img/fqct-mini.png, enabled=true",
-        "15 8-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/fqxs.js, tag=番茄小说, img-url=https://raw.githubusercontent.com/bluesmallpig/scripts/main/img/fqxs-mini.png, enabled=true",       
-        "10 8-19 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/djxs.js, tag=得间小说, img-url=https://raw.githubusercontent.com/bluesmallpig/scripts/main/img/djxs-mini.png, enabled=true", 
-        "15 8-15 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/fdxs.js, tag=疯读小说, img-url=https://raw.githubusercontent.com/bluesmallpig/scripts/main/img/fdxs-mini.png, enabled=true",  
-        "*/10 8-16 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/fdxs_times.js, tag=疯读小说时长, img-url=https://raw.githubusercontent.com/bluesmallpig/scripts/main/img/fdxs-mini.png, enabled=true",  
-        "1,41 8-17 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/fqctapp.js, tag=QQ阅读, img-url=https://raw.githubusercontent.com/bluesmallpig/scripts/main/img/qqyd-mini.png, enabled=true",       
-        "5 9,20 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/sqxs.js, tag=书旗小说, img-url=https://raw.githubusercontent.com/bluesmallpig/scripts/main/img/shuqi-mini.png, enabled=true",
-        "*/6 7-17 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/everyday.js, tag=书旗小说时长, img-url=https://raw.githubusercontent.com/bluesmallpig/scripts/main/img/shuqi-mini.png, enabled=true",
-        "5 6,19 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/gylm.js, tag=高佣联盟, img-url=https://raw.githubusercontent.com/bluesmallpig/scripts/main/img/gylm-mini.png, enabled=true",
-        "*/6 * * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/hlhb.js, tag=欢乐红包, img-url=https://raw.githubusercontent.com/bluesmallpig/scripts/main/img/hlhb-mini.png, enabled=true",
-        "*/5 6-22 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/txs.js, tag=淘小说, img-url=https://raw.githubusercontent.com/bluesmallpig/scripts/main/img/txt-mini.png, enabled=true",   
-        "0 7,12,20,21 * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/wlkd.js, tag=文旅看点, img-url=https://raw.githubusercontent.com/bluesmallpig/scripts/main/img/wlkd-mini.png, enabled=true",     
-        "*/12 * * * * http://script.frp.aiuyo.com:8680/kkd.js, tag=快看点, img-url=https://raw.githubusercontent.com/bluesmallpig/scripts/main/img/kkd-mini.png, enabled=true",     
-        "*/6 * * * * https://raw.githubusercontent.com/bluesmallpig/scripts/main/sjb.js, tag=睡觉宝, img-url=https://raw.githubusercontent.com/bluesmallpig/scripts/main/img/sjb-mini.png, enabled=true"
+        "15 8-22 * * * http://script.frp.aiuyo.com:8680/scripts/fqctapp.js, tag=番茄畅听, img-url=http://script.frp.aiuyo.com:8680/scripts/img/fqct-mini.png, enabled=true",
+        "15 8-22 * * * http://script.frp.aiuyo.com:8680/scripts/fqxs.js, tag=番茄小说, img-url=http://script.frp.aiuyo.com:8680/scripts/img/fqxs-mini.png, enabled=true",       
+        "10 8-19 * * * http://script.frp.aiuyo.com:8680/scripts/djxs.js, tag=得间小说, img-url=http://script.frp.aiuyo.com:8680/scripts/img/djxs-mini.png, enabled=true", 
+        "15 8-15 * * * http://script.frp.aiuyo.com:8680/scripts/fdxs.js, tag=疯读小说, img-url=http://script.frp.aiuyo.com:8680/scripts/img/fdxs-mini.png, enabled=true",  
+        "*/10 8-16 * * * http://script.frp.aiuyo.com:8680/scripts/fdxs_times.js, tag=疯读小说时长, img-url=http://script.frp.aiuyo.com:8680/scripts/img/fdxs-mini.png, enabled=true",  
+        "1,41 8-17 * * * http://script.frp.aiuyo.com:8680/scripts/fqctapp.js, tag=QQ阅读, img-url=http://script.frp.aiuyo.com:8680/scripts/img/qqyd-mini.png, enabled=true",       
+        "5 9,20 * * * http://script.frp.aiuyo.com:8680/scripts/sqxs.js, tag=书旗小说, img-url=http://script.frp.aiuyo.com:8680/scripts/img/shuqi-mini.png, enabled=true",
+        "*/6 7-17 * * * http://script.frp.aiuyo.com:8680/scripts/everyday.js, tag=书旗小说时长, img-url=http://script.frp.aiuyo.com:8680/scripts/img/shuqi-mini.png, enabled=true",
+        "5 6,19 * * * http://script.frp.aiuyo.com:8680/scripts/gylm.js, tag=高佣联盟, img-url=http://script.frp.aiuyo.com:8680/scripts/img/gylm-mini.png, enabled=true",
+        "*/6 * * * * http://script.frp.aiuyo.com:8680/scripts/hlhb.js, tag=欢乐红包, img-url=http://script.frp.aiuyo.com:8680/scripts/img/hlhb-mini.png, enabled=true",
+        "*/5 6-22 * * * http://script.frp.aiuyo.com:8680/scripts/txs.js, tag=淘小说, img-url=http://script.frp.aiuyo.com:8680/scripts/img/txt-mini.png, enabled=true",   
+        "0 7,12,20,21 * * * http://script.frp.aiuyo.com:8680/scripts/wlkd.js, tag=文旅看点, img-url=http://script.frp.aiuyo.com:8680/scripts/img/wlkd-mini.png, enabled=true",     
+        "*/12 * * * * http://script.frp.aiuyo.com:8680/kkd.js, tag=快看点, img-url=http://script.frp.aiuyo.com:8680/scripts/img/kkd-mini.png, enabled=true",     
+        "*/6 * * * * http://script.frp.aiuyo.com:8680/scripts/sjb.js, tag=睡觉宝, img-url=http://script.frp.aiuyo.com:8680/scripts/img/sjb-mini.png, enabled=true"
        
     ]
 }
